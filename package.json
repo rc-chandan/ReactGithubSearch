@@ -1,0 +1,32 @@
+{
+  "name": "minimal-react-starter",
+  "version": "1.0.0",
+  "description": "The simplest reactjs, babeljs, webpack setup to get you started for practice projects. No test scripts no additional funtionalities the straight forward react starter pack.",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "react-starter-pack",
+    "minimal-react-starter-pack",
+    "react",
+    "react-environment-setup"
+  ],
+  "author": "Chandan Rana (https://github.com/RC-Chandan)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
