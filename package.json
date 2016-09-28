@@ -1,7 +1,7 @@
 {
-  "name": "minimal-react-starter",
+  "name": "GithubSearchApp",
   "version": "1.0.0",
-  "description": "The simplest reactjs, babeljs, webpack setup to get you started for practice projects. No test scripts no additional funtionalities the straight forward react starter pack.",
+  "description": "Sample Github search app to demonstrate use of React js and github api",
   "main": "index.js",
   "repository": "",
   "scripts": {
@@ -17,6 +17,8 @@
   "author": "Chandan Rana (https://github.com/RC-Chandan)",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.14.0",
+    "lodash": "^4.16.2",
     "react": "^15.3.1",
     "react-dom": "^15.3.1"
   },
