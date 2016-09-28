@@ -1,5 +1,5 @@
-# minimal-react-starter
-The simplest React, webpack starter kit with ES2015 support.
+# Github Profile Search
+A simple github profile search app using react js
 
 # using the repository
 Download the repository zip file or clone it to local.
